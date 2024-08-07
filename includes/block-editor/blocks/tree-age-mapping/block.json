@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "dunn-blocks/tree-age-mapping",
+	"version": "0.1.0",
+	"title": "Tree Age Mapping",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Mapping Tree Ages",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "dunn-blocks",
+	"editorScript": "file:../../../../build/index.js",
+	"editorStyle": "file:../../../../build/index.css",
+	"style": "file:./../../../build/style-index.css",
+	"viewScript": "file:../../../../build/view.js"
+}

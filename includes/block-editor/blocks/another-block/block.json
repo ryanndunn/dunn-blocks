@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "dunn-blocks/another-block",
+	"version": "0.1.0",
+	"title": "Another Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Just Another Block",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "dunn-blocks",
+	"editorScript": "file:../../../../build/index.js",
+	"editorStyle": "file:../../../../build/index.css",
+	"style": "file:./../../../build/style-index.css",
+	"viewScript": "file:../../../../build/view.js"
+}
